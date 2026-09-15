@@ -10,13 +10,13 @@ const varela = Varela({
 });
 
 export const metadata: Metadata = {
-  title: "Tinta Seroja — Temporary Tattoo Creator",
+  title: "Tinta Seroja — On-Site Temporary Tattoo Artist Jakarta",
   description:
-    "Temporary tattoo illustrations by Tinta Seroja — wearable artwork made for expression, experimentation, and moments worth remembering.",
+    "Temporary tattoo artist based in Jakarta, Indonesia. Book Tinta Seroja for on-site temporary tattoos at events, parties, brand activations, and pop-ups.",
   openGraph: {
-    title: "Tinta Seroja — Temporary Tattoo Creator",
+    title: "Tinta Seroja — On-Site Temporary Tattoo Artist Jakarta",
     description:
-      "Wearable illustrations made for expression, experimentation, and moments worth remembering.",
+      "Book a Jakarta-based temporary tattoo artist for events, parties, brand activations, pop-ups, and private gatherings.",
     type: "website",
     locale: "id_ID",
   },
