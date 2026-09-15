@@ -59,7 +59,7 @@ export default function PageMotion({ children }: { children: ReactNode }) {
 
     media.add("(prefers-reduced-motion: no-preference) and (hover: hover) and (pointer: fine)", () => {
       const cleanups: (() => void)[] = [];
-      root.current?.querySelectorAll<HTMLElement>(".tattoo-card, .text-link, .site-nav a, .site-header__brand, .site-footer a").forEach((element) => {
+      root.current?.querySelectorAll<HTMLElement>(".tattoo-card, .text-link, .hero-booking, .hero-browse, .site-nav a, .site-header__brand, .site-footer a").forEach((element) => {
         const artwork = element.querySelector(".tattoo-card__image");
         const arrow = element.querySelector<HTMLElement>("[data-link-arrow]");
         const brand = element.querySelector(".brand-mark");
