@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 720">
+  <rect width="920" height="720" fill="#ede8df"/>
+  <g fill="none" stroke="#16498d" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke-width="8" d="M460 548c-5-71-3-136 8-194 15-77 51-148 107-211"/>
+    <path stroke-width="7" d="M463 357c-88-19-141-67-151-142 82-7 135 39 151 142Zm7-3c24-80 74-122 149-127 5 77-43 118-149 127Z"/>
+    <path stroke-width="7" d="M465 484c-89-15-146-60-164-132 81-12 137 32 164 132Zm7-1c30-65 78-93 145-86-13 66-60 95-145 86Z"/>
+    <path stroke-width="7" d="M459 548c-59-5-104 16-135 61 57 25 102 2 135-61Zm10 0c43-41 88-44 135-11-30 45-76 52-135 11Z"/>
+    <path stroke-width="5" d="M466 547c23-33 43-70 58-110m-59-83c-41-35-70-79-86-133m89 132c48-28 83-65 109-111"/>
+  </g>
+  <g fill="#16498d">
+    <circle cx="465" cy="354" r="11"/>
+    <circle cx="469" cy="483" r="10"/>
+  </g>
+  <g fill="none" stroke="#a65e51" stroke-width="6" stroke-linecap="round">
+    <path d="M158 170c30-29 71-36 112-24-25 35-66 46-112 24Z"/>
+    <path d="M174 178c27 13 48 32 60 59"/>
+    <path d="M734 519c-28-26-35-61-24-96 33 22 43 56 24 96Z"/>
+    <path d="M733 518c-1 27 7 51 25 71"/>
+  </g>
+</svg>
